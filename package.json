@@ -1,0 +1,28 @@
+{
+  "name": "workflow-2_ca",
+  "version": "1.0.0",
+  "description": "Workflow 2 Course Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ca2roaldsoy/Workflow-2_CA.git"
+  },
+  "author": "Cato Roaldsøy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ca2roaldsoy/Workflow-2_CA/issues"
+  },
+  "homepage": "https://github.com/ca2roaldsoy/Workflow-2_CA#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-csso": "^4.0.1",
+    "gulp-sass": "^4.0.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp-imagemin": "^7.1.0"
+  }
+}
